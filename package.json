@@ -1,0 +1,19 @@
+{
+  "name": "com.loganland.logansversiondisplayer",
+  "version": "1.0.0",
+  "displayName": "Logans Version Displayer",
+  "description": "Reads in a text file, and separates the text blocks into version paragraphs, and propogates them on a textmeshpro.",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.0"
+  },
+  "keywords": [
+    "version",
+    "versions"
+  ],
+  "author": {
+    "name": "Logan Jarrett"
+  }
+}
